@@ -432,6 +432,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -441,8 +442,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -463,6 +464,8 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
@@ -3362,6 +3365,143 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Adventurer Sprite Sheet v1.1_23: -270760033564259390
+      Adventurer Sprite Sheet v1.1_121: -1627135867661160094
+      Adventurer Sprite Sheet v1.1_69: 6699015643411970796
+      Adventurer Sprite Sheet v1.1_50: 8412670673068832711
+      Adventurer Sprite Sheet v1.1_124: 6373864079043992615
+      Adventurer Sprite Sheet v1.1_54: -23535245118527358
+      Adventurer Sprite Sheet v1.1_123: -6993007719870583403
+      Adventurer Sprite Sheet v1.1_66: 1224420270377346367
+      Adventurer Sprite Sheet v1.1_7: 3842510425257158086
+      Adventurer Sprite Sheet v1.1_71: 1418691239503274395
+      Adventurer Sprite Sheet v1.1_119: 7649356302221627691
+      Adventurer Sprite Sheet v1.1_92: 1304702809962938204
+      Adventurer Sprite Sheet v1.1_56: 8667257354068414014
+      Adventurer Sprite Sheet v1.1_100: -6698490222563950807
+      Adventurer Sprite Sheet v1.1_129: -4193190816052922125
+      Adventurer Sprite Sheet v1.1_30: 7520994594291565267
+      Adventurer Sprite Sheet v1.1_2: 5192935744052644389
+      Adventurer Sprite Sheet v1.1_88: -7038621195662074781
+      Adventurer Sprite Sheet v1.1_60: 3585777940085248844
+      Adventurer Sprite Sheet v1.1_43: -6300065091594920691
+      Adventurer Sprite Sheet v1.1_0: 2585874796098763323
+      Adventurer Sprite Sheet v1.1_18: 6426520992928099471
+      Adventurer Sprite Sheet v1.1_132: -4655708905983915480
+      Adventurer Sprite Sheet v1.1_10: -4201377787964963596
+      Adventurer Sprite Sheet v1.1_58: -5567148997713595027
+      Adventurer Sprite Sheet v1.1_76: 3767208628409288067
+      Adventurer Sprite Sheet v1.1_64: -1666943241128144958
+      Adventurer Sprite Sheet v1.1_104: 4848708418425611130
+      Adventurer Sprite Sheet v1.1_133: -4463672760841651500
+      Adventurer Sprite Sheet v1.1_9: 1987691738428127229
+      Adventurer Sprite Sheet v1.1_99: -2360859913981423008
+      Adventurer Sprite Sheet v1.1_12: 5715300619149499577
+      Adventurer Sprite Sheet v1.1_17: 2458749904917445314
+      Adventurer Sprite Sheet v1.1_48: 6948955313884327923
+      Adventurer Sprite Sheet v1.1_3: 950186174185133508
+      Adventurer Sprite Sheet v1.1_77: -3617497895572368528
+      Adventurer Sprite Sheet v1.1_42: 6067725330180576294
+      Adventurer Sprite Sheet v1.1_11: 659260697410829514
+      Adventurer Sprite Sheet v1.1_130: -6553428587214427998
+      Adventurer Sprite Sheet v1.1_39: -4559751443681546701
+      Adventurer Sprite Sheet v1.1_74: 1154731645389047723
+      Adventurer Sprite Sheet v1.1_86: 4969532567691575014
+      Adventurer Sprite Sheet v1.1_128: -6438033271387072332
+      Adventurer Sprite Sheet v1.1_38: -5877015007945911891
+      Adventurer Sprite Sheet v1.1_46: -3688428348077623639
+      Adventurer Sprite Sheet v1.1_14: -2627910585090654760
+      Adventurer Sprite Sheet v1.1_37: -5473359310499889905
+      Adventurer Sprite Sheet v1.1_117: 9142281081625651343
+      Adventurer Sprite Sheet v1.1_72: -4255218747532413528
+      Adventurer Sprite Sheet v1.1_57: -3660747289897842238
+      Adventurer Sprite Sheet v1.1_91: -4078597773369263331
+      Adventurer Sprite Sheet v1.1_107: -4581364300103307273
+      Adventurer Sprite Sheet v1.1_29: 7344620940700187500
+      Adventurer Sprite Sheet v1.1_34: -5043448030153144373
+      Adventurer Sprite Sheet v1.1_15: -1242656635315533506
+      Adventurer Sprite Sheet v1.1_83: -2051304167139905305
+      Adventurer Sprite Sheet v1.1_47: 3920474477666513948
+      Adventurer Sprite Sheet v1.1_113: -773512253032368995
+      Adventurer Sprite Sheet v1.1_82: -1045643350740922456
+      Adventurer Sprite Sheet v1.1_93: -9210143475997367022
+      Adventurer Sprite Sheet v1.1_62: 6664025246426972938
+      Adventurer Sprite Sheet v1.1_125: -1797879434047265842
+      Adventurer Sprite Sheet v1.1_19: 9018015573347561196
+      Adventurer Sprite Sheet v1.1_70: 2086469617472337691
+      Adventurer Sprite Sheet v1.1_33: -6534971739790193491
+      Adventurer Sprite Sheet v1.1_95: -346330762458453307
+      Adventurer Sprite Sheet v1.1_96: 5456357043591699841
+      Adventurer Sprite Sheet v1.1_45: 1235869187296806957
+      Adventurer Sprite Sheet v1.1_1: 362885150885467265
+      Adventurer Sprite Sheet v1.1_20: 3308441851524924921
+      Adventurer Sprite Sheet v1.1_110: 5578681211773337610
+      Adventurer Sprite Sheet v1.1_105: -8878062419312934730
+      Adventurer Sprite Sheet v1.1_102: 6642344663929101280
+      Adventurer Sprite Sheet v1.1_8: 4271928075285221284
+      Adventurer Sprite Sheet v1.1_80: -5837874562975298741
+      Adventurer Sprite Sheet v1.1_40: -4210497114947925161
+      Adventurer Sprite Sheet v1.1_21: 69722389615624594
+      Adventurer Sprite Sheet v1.1_97: 7528907445567643499
+      Adventurer Sprite Sheet v1.1_78: 3639729993170211362
+      Adventurer Sprite Sheet v1.1_75: -7162996487464623209
+      Adventurer Sprite Sheet v1.1_84: -3684274502767808203
+      Adventurer Sprite Sheet v1.1_103: -388096484548320509
+      Adventurer Sprite Sheet v1.1_32: -901475685548599669
+      Adventurer Sprite Sheet v1.1_6: -5930726231560218482
+      Adventurer Sprite Sheet v1.1_135: -1686518347069374433
+      Adventurer Sprite Sheet v1.1_4: -3550149873777054646
+      Adventurer Sprite Sheet v1.1_24: 7654427192434177108
+      Adventurer Sprite Sheet v1.1_94: -2728708899482507478
+      Adventurer Sprite Sheet v1.1_65: -682876664716711156
+      Adventurer Sprite Sheet v1.1_114: -1606968766109513805
+      Adventurer Sprite Sheet v1.1_53: 2180314268694065768
+      Adventurer Sprite Sheet v1.1_59: 3923536972230823077
+      Adventurer Sprite Sheet v1.1_51: -3500774409483897730
+      Adventurer Sprite Sheet v1.1_68: -6059569917512512540
+      Adventurer Sprite Sheet v1.1_73: -2796344792753269689
+      Adventurer Sprite Sheet v1.1_27: -3735659120621753693
+      Adventurer Sprite Sheet v1.1_111: 6813696935482638595
+      Adventurer Sprite Sheet v1.1_122: -5602399489233540847
+      Adventurer Sprite Sheet v1.1_118: -5095957913812402401
+      Adventurer Sprite Sheet v1.1_126: 2632149284391759154
+      Adventurer Sprite Sheet v1.1_5: 7149220206228244093
+      Adventurer Sprite Sheet v1.1_127: 8764523644476824072
+      Adventurer Sprite Sheet v1.1_85: 8948591448824770509
+      Adventurer Sprite Sheet v1.1_52: 5167428117027941075
+      Adventurer Sprite Sheet v1.1_67: 4923736647072137392
+      Adventurer Sprite Sheet v1.1_61: 6498303574852265095
+      Adventurer Sprite Sheet v1.1_89: 6904031010875690601
+      Adventurer Sprite Sheet v1.1_101: -6875445785639782976
+      Adventurer Sprite Sheet v1.1_79: 4948620849336577905
+      Adventurer Sprite Sheet v1.1_25: -7159238058684729202
+      Adventurer Sprite Sheet v1.1_13: 6644653628967338323
+      Adventurer Sprite Sheet v1.1_90: -2688598574918298656
+      Adventurer Sprite Sheet v1.1_22: -8209165705324337324
+      Adventurer Sprite Sheet v1.1_112: -4904661019499842840
+      Adventurer Sprite Sheet v1.1_120: 6806556648740285690
+      Adventurer Sprite Sheet v1.1_81: 2627999690067776301
+      Adventurer Sprite Sheet v1.1_31: 4742898270585425907
+      Adventurer Sprite Sheet v1.1_131: -2873712762029300690
+      Adventurer Sprite Sheet v1.1_55: -861997945025730876
+      Adventurer Sprite Sheet v1.1_106: 8799061094290847232
+      Adventurer Sprite Sheet v1.1_116: 1250557213246598041
+      Adventurer Sprite Sheet v1.1_134: -5206389971931923927
+      Adventurer Sprite Sheet v1.1_41: -1879597997492853775
+      Adventurer Sprite Sheet v1.1_35: -2130433212569173602
+      Adventurer Sprite Sheet v1.1_108: 1359909116944379776
+      Adventurer Sprite Sheet v1.1_87: 7498649960406624148
+      Adventurer Sprite Sheet v1.1_109: 6051324141510649756
+      Adventurer Sprite Sheet v1.1_16: -7559350756573924842
+      Adventurer Sprite Sheet v1.1_36: 8684611328921947106
+      Adventurer Sprite Sheet v1.1_28: 2067004882282283210
+      Adventurer Sprite Sheet v1.1_115: -8636876266123481340
+      Adventurer Sprite Sheet v1.1_26: -2122049281258848248
+      Adventurer Sprite Sheet v1.1_63: 304441257328606875
+      Adventurer Sprite Sheet v1.1_49: 6556136365348467336
+      Adventurer Sprite Sheet v1.1_98: 2331738249910158849
+      Adventurer Sprite Sheet v1.1_44: -1834214803044383020
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
